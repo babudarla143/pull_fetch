@@ -5,6 +5,7 @@ class ractangle:
     
     def area(self):
         return = self.radus*self.wedth
+print('input here')
 x=int(input('enter the input'))
 y=int(input('enter the input'))
 r=ractangle(x,y)
